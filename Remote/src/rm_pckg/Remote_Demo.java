@@ -8,6 +8,7 @@ public class Remote_Demo {
 	System.out.println("Update2");
 	System.out.println("update3");
 	System.out.println("u5");
+	System.out.println("u6");
 	}
 
 }
